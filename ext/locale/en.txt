@@ -1,0 +1,11 @@
+#: locale=en
+
+## Tour
+
+### Title
+tour.name = Untitled 15
+
+## Media
+
+### Title
+panorama_4DC45D00_4199_CE4B_41C8_5209939A4B44.label = PANO_20201208_141823
